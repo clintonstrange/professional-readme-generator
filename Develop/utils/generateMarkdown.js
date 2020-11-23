@@ -7,17 +7,11 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 * [Installation](#installation)  
-
 * [Usage](#usage)  
-
 * [License](#license)  
-
 * [Contribution](#contribution)  
-
 * [Testing](#testing)  
-
 * [Questions](#questions)
-
   ## Installation
   ${data.install}
 
@@ -34,8 +28,8 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
-  If you have additional questions you can contact me directly via...
-  GitHub: ${data.github}
+  If you have additional questions you can contact me directly via...  
+  GitHub: ${data.github}    
   Email: ${data.email}
   
 `;
