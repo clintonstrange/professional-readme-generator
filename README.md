@@ -1,7 +1,7 @@
-# return of the jedi
+# Phantom Menace
   
   ## Description
-  ewoks, enough said
+  Anakin sucks
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -11,22 +11,22 @@
 * [Testing](#testing)  
 * [Questions](#questions)
   ## Installation
-  bash ATST
+  win pod race
 
   ## Usage
-  I know
+  it cant, im a tardarian
   
   ## License
-  Noteice: This project is under the Apache 2.0 License
+  Noteice: This project is under the Eclipse License
   
   ## Contribution
-  worship C3PO
+  leave jar jar behind
 
   ## Testing
-  Dont turn to the dark side
+  midicholorian counting
 
   ## Questions
   If you have additional questions you can contact me directly via...  
-  GitHub: ewok4life    
-  Email: ewoks@endor.com
+  GitHub: (github.com/clintonstrange)   
+  Email: clintonstrange@hotmail.com
   
