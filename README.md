@@ -1,14 +1,14 @@
 # Darth
   
   ## Table of Contents
-  -[description](#description)
--[install](#install)
--[usage](#usage)
--[contribution](#contribution)
--[test](#test)
--[licenses](#licenses)
--[github](#github)
--[contact](#contact)
+  -[Description](#description)
+-[Install](#install)
+-[Usage](#usage)
+-[Contribution](#contribution)
+-[Test](#test)
+-[License](#license)
+-[GitHub Username](#GitHub Username)
+-[Contact](#contact)
 
   ## Description
   Clint
