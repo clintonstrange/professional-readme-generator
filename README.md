@@ -1,7 +1,7 @@
-# Phantom Menace
+# Attack of the Clones
   
   ## Description
-  Anakin sucks
+  worm killer
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -11,22 +11,22 @@
 * [Testing](#testing)  
 * [Questions](#questions)
   ## Installation
-  win pod race
+  jump from speeder
 
   ## Usage
-  it cant, im a tardarian
+  sand sucks
   
   ## License
-  Noteice: This project is under the Eclipse License
+  Noteice: This project is under the The MIT License
   
   ## Contribution
-  leave jar jar behind
+  deathstar teased
 
   ## Testing
-  midicholorian counting
+  clone army
 
   ## Questions
   If you have additional questions you can contact me directly via...  
-  GitHub: (github.com/clintonstrange)   
+  [GitHub](github.com/clintonstrange)    
   Email: clintonstrange@hotmail.com
   
