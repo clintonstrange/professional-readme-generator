@@ -1,7 +1,7 @@
-# mit   ___ [![License](https://img.shields.io/badge/License-MIT-informational.svg)](https://opensource.org/licenses/Apache-2.0)
+# Professional README Generator [![License](https://img.shields.io/badge/License-Mozilla-Public-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  mit
+  This project accepts a user's command line input to generate a professional README.md for the project.
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -11,22 +11,22 @@
 * [Testing](#testing)  
 * [Questions](#questions)
   ## Installation
-  mit
+  clone repository
 
   ## Usage
-  mit
+  This project can be used to create a professional README.md for all projects
   
   ## License
-  Notice: This project is under the MIT
+  Notice: This project is under the Mozilla-Public
   
   ## Contribution
-  mit
+  Please submit any contributions in the contribution branch for review
 
   ## Testing
-  mit
+  Please test project in test branch
 
   ## Questions
   If you have additional questions you can contact me directly via...  
-  Go to my [GitHub Page](github.com/mit)    
-  Email me at clintonstrange
+  GitHub Username: clintonstrange     
+  Email: clintonstrange@hotmail.com
   
