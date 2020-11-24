@@ -1,7 +1,7 @@
-# Attack of the Clones
+# Apache  [![License](https://img.shields.io/badge/License-Apache-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  worm killer
+  Apache
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -11,22 +11,22 @@
 * [Testing](#testing)  
 * [Questions](#questions)
   ## Installation
-  jump from speeder
+  Apache
 
   ## Usage
-  sand sucks
+  Apache
   
   ## License
-  Noteice: This project is under the The MIT License
+  Notice: This project is under the Apache
   
   ## Contribution
-  deathstar teased
+  Apache
 
   ## Testing
-  clone army
+  Apache
 
   ## Questions
   If you have additional questions you can contact me directly via...  
-  [GitHub](github.com/clintonstrange)    
-  Email: clintonstrange@hotmail.com
+  Go to my [GitHub Page](github.com/clintonstrange)    
+  Email me at clintonstrange@hotmail.com
   
