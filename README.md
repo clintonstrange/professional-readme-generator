@@ -1,7 +1,7 @@
-# Apache  [![License](https://img.shields.io/badge/License-Apache-informational.svg)](https://opensource.org/licenses/Apache-2.0)
+# mit   ___ [![License](https://img.shields.io/badge/License-MIT-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  Apache
+  mit
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -11,22 +11,22 @@
 * [Testing](#testing)  
 * [Questions](#questions)
   ## Installation
-  Apache
+  mit
 
   ## Usage
-  Apache
+  mit
   
   ## License
-  Notice: This project is under the Apache
+  Notice: This project is under the MIT
   
   ## Contribution
-  Apache
+  mit
 
   ## Testing
-  Apache
+  mit
 
   ## Questions
   If you have additional questions you can contact me directly via...  
-  Go to my [GitHub Page](github.com/clintonstrange)    
-  Email me at clintonstrange@hotmail.com
+  Go to my [GitHub Page](github.com/mit)    
+  Email me at clintonstrange
   
