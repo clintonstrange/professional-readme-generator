@@ -1,6 +1,6 @@
 # Professional README.md Generator  
   
-  [![License](https://img.shields.io/badge/License-MIT-informational.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-Mozilla-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
   This application exists to assist you in making a professional README.md file for all of your projects efficiently and consistently.
@@ -19,10 +19,10 @@
   This application can be used for any project you create that requires a README.md file be created.
   
   ## License
-  Licensed under the MIT license.
+  Licensed under the Mozilla license.
   
   ## Contributing
-  While the Contribution Guidelines are still being developed for this project we do require all contributors adopt the [Contributor Covenant](https://www.https://www.contributor-covenant.org)
+  While the Contribution Guidelines are still being developed for this project we do require all contributors adopt the [Contributor Covenant](https://www.contributor-covenant.org)
 
   ## Tests
   To test the project please follow the Installation Steps and open your NEWREADME.md file.
