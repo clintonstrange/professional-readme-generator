@@ -26,7 +26,7 @@
   ## Tests
   Once you have cloned the repository for this application, enter in your command line: node develop/index. Your professional README.md file will be generated based off your input.
 
-  [See Walkthrough Video Here]()
+  [See Walkthrough Video Here](https://drive.google.com/file/d/10ccsa8Ob_gabUUTxfZNjhoioHM8GeZAO/view)
 
   ## Questions
   If you have additional questions you can contact me directly via...  
