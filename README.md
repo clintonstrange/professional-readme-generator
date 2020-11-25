@@ -3,6 +3,8 @@
   
   ## Description
   This application generates a professional README.md file for your projects based on your command line input.
+  
+  ![sample-readme-screenshot](https://user-images.githubusercontent.com/71712425/100263810-970c9380-2f13-11eb-8a0c-1189f34bc751.png)
 
   ## Table of Contents
 * [Installation](#installation)  
