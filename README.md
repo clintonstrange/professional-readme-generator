@@ -1,9 +1,8 @@
-# Kylo Goes Good  
+# Clint's README Generator 
   
-  [![License](https://img.shields.io/badge/License-Unlicense-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  Kylo turns to the lightside
+  This application generates a professional README.md file for your projects based on your command line input.
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -13,19 +12,19 @@
 * [Tests](#tests)  
 * [Questions](#questions)
   ## Installation
-  Force Good
+  This application requires Node.js, FS and has a dependency of Inquirer.
 
   ## Usage
-  Turn Sith to Jedi
+  Can be applied to generate a professional README.md File for any project quickly and consistently.
   
   ## License
-  Licensed under the Unlicense license.
+  Currently not under any license.
   
   ## Contributing
-  Help turn Sith to the lightside
+  Contributing Guidelines are still being developed, currently not accepting any contributions.
 
   ## Tests
-  jedi Academy
+  Once you have cloned the repository for this application, enter in your command line: node develop/index. Your professional README.md file will be generated based off your input.
 
   ## Questions
   If you have additional questions you can contact me directly via...  

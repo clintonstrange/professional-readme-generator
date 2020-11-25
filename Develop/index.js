@@ -154,4 +154,4 @@ const init = () => {
 };
 
 // function call to initialize program
-init().then((answers) => writeToFile("./README.md", answers));
+init().then((answers) => writeToFile("./NEWREADME.md", answers));
