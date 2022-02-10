@@ -1,9 +1,9 @@
-# Professional README.md Generator  
+# Illuminations  
   
   [![License](https://img.shields.io/badge/License-Mozilla-informational.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  This application exists to assist you in making a professional README.md file for all of your projects efficiently and consistently.
+  Fireworks show
 
   ## Table of Contents
 * [Installation](#installation)  
@@ -13,21 +13,21 @@
 * [Tests](#tests)  
 * [Questions](#questions)
   ## Installation
-  You must clone the repository clintonstrange/professional-readme-generator and ensure you have node.js, required fs, and installed Inquirer. Then from the command line enter: node develop/index. Form there your input will generate the professional README.md file.
+  gather around the fire
 
   ## Usage
-  This application can be used for any project you create that requires a README.md file be created.
+  to end the night
   
   ## License
   Licensed under the Mozilla license.
   
   ## Contributing
-  While the Contribution Guidelines are still being developed for this project we do require all contributors adopt the [Contributor Covenant](https://www.contributor-covenant.org)
+  watch in aw
 
   ## Tests
-  To test the project please follow the Installation Steps and open your NEWREADME.md file.
+  how bright the lights are
 
   ## Questions
   If you have additional questions you can contact me directly via...  
   GitHub: [clintonstrange](https://www.github.com/clintonstrange)    
-  Email me additional questions at clintonstrange@hotmail.com
+  Email me additional questions at clinton.strange@gmail.com
